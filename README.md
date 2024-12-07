@@ -1,2 +1,2 @@
 # Test
-$y = k*x + b$
+$$y = k x + b$$
